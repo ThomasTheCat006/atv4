@@ -1,0 +1,18 @@
+.container{
+    background-color: #d1eaf0;
+}
+
+.anuncio{
+    display: flex;
+    flex-direction: row;
+    margin: 24px;
+    background-color: #fff;
+    padding: 12px 24px;
+}
+
+.textos{
+    margin-left: 24px;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
